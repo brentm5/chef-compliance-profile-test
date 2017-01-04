@@ -1,0 +1,8 @@
+name: profile-test
+title: Test inspec profile for verifying compliance profiles are downloaded
+maintainer: Montague, Brent
+copyright: Montague, Brent
+copyright_email: brent@bmontague.com
+license:  Apache 2 license
+summary: An InSpec Compliance Profile to test downloading compliance profiles from supermarket
+version: 0.1.0
